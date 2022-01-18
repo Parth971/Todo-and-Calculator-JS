@@ -1,0 +1,19 @@
+body, html {
+     margin: 0;
+     padding: 0;
+     background-color: #d3d3d3;
+     color: #5e5e5f;
+}
+#errorVal1, #errorVal2, #ansDiv {
+     display: none;
+}
+.submit{
+     margin-top: 20px;
+     width: 100%;
+     color: white;
+     background-color: #878787;
+     font-size: 20px;
+}
+#submitBtn:focus {
+     outline:0;
+}
